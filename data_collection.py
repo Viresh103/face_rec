@@ -29,7 +29,7 @@ while True:
        roi_gray = gray[y:y+h, x:x+w]
        roi_color = frame[y:y+h, x:x+w]
       
-       cv2.imwrite("./data/image"+str(count)+".jpg",roi_color)
+       cv2.imwrite("./filename/image"+str(count)+".jpg",roi_color)
        count+=1
        
     cv2.imshow('img',frame)
