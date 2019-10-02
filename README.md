@@ -1,5 +1,6 @@
 # face_rec
 face recognition using eigen faces
+Note:while running model make sure you have runed train_model.py and face_rec.py on same kernel
 # data_collection.py
  is used to store the data just replace filename with your directory name where you want to store particular class data
  NOTE: collect has  much data as possible
