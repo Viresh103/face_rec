@@ -1,3 +1,4 @@
+# FACE RECOGNITION
 # face_rec
 face recognition using eigen faces.<br/>
 Note:while running model make sure you have run train_model.py and face_rec.py on same kernel
